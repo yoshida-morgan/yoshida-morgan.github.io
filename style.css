@@ -84,9 +84,18 @@ footer {
     .profile {
         display: block;
     }
+    
+    .profile-contents {
+        display: block;
+    }
 
     .profile h3 {
         width: 100%;
         text-align: left;
+    }
+
+    .profile p {
+        width: 100%;
+        padding: 10px 0 0 10px;
     }
 }
